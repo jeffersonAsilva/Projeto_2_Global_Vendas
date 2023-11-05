@@ -1,6 +1,6 @@
 
 
-## Projeto de Laboratório de Vendas global - Power BI.
+## Projeto de Laboratório de Vendas global,Custo, Margem de Lucro e KPI - Power BI.
 
 Microsoft Power BI Para Business Intelligence e Data Science
 ## Objetivo
